@@ -1,8 +1,22 @@
-# Bash Lab Scripts
+# Bash Arrays
 
-This repository contains various Bash script exercises used for labs. Each script is stored in its own branch for clarity and organization.
+## Task
 
-## Branches
+Develop a script that takes number (count of needed folders up to 26) as an argument and create this folders in current directory with next naming convention `folder_<[a-z]>`.
 
-- **loop**
-- **conditional**
+### Check
+
+`./array.sh 5`
+
+5 folders created:
+folder_a, folder_b, folder_c, folder_c, folder_d
+
+`./array.sh 1`
+
+1 folder created:
+folder_a
+
+`./array.sh 2`
+
+2 folders created:
+folder_a, folder_b
