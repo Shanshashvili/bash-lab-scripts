@@ -6,3 +6,5 @@ This repository contains various Bash script exercises used for labs. Each scrip
 
 - **loop**
 - **conditional**
+- **functions**
+- **arrays**
