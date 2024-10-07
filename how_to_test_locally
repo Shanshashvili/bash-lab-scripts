@@ -1,0 +1,25 @@
+# Source the functions
+source ./functions.sh
+
+# Testing pow function
+echo "Testing pow function:"
+pow 2 3  # Expected output: 8
+pow 2 5  # Expected output: 32
+
+# Testing shortest function
+echo "Testing shortest function:"
+shortest "This" "is" "Bash" "Functions" "Task"
+# Expected output:
+is
+
+shortest "Java" "Bash" "Python"
+# Expected output:
+Java
+Bash
+  
+# Testing print_log function
+echo "Testing print_log function:"
+print_log "Hello World!"
+# Expected output: [current_date_time] Hello World!
+print_log "Hello Bash!"
+# Expected output: [current_date_time] Hello Bash!
