@@ -5,3 +5,4 @@ This repository contains various Bash script exercises used for labs. Each scrip
 ## Branches
 
 - **loop**
+- **conditional**
