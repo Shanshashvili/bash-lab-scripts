@@ -1,7 +1,17 @@
-# Bash Lab Scripts
+# Bash Loops
 
-This repository contains various Bash script exercises used for labs. Each script is stored in its own branch for clarity and organization.
+## Task
+A script that takes a string as an argument and returns its reverse version, changing uppercase letters to lowercase and back
 
-## Branches
+## Check
+`./loops1.sh "Hello World"`
 
-- **loop**
+DLROw OLLEh
+
+`./loops1.sh "bash"`
+
+HSAB
+
+`./loops1.sh "OBOBA"`
+
+abobo
