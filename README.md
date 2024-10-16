@@ -8,3 +8,4 @@ This repository contains various Bash script exercises used for labs. Each scrip
 - **conditional**
 - **functions**
 - **arrays**
+- **sed_awk**
